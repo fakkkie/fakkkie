@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fakkkie
 - 👀 I’m interested in ... html and css
-- 🌱 I’m currently learning ... java
+- 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... n/a
 - 📫 How to reach me ... discord: fakkkie#6454
 
